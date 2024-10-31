@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9837c4f070f7c809cbc8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Prac1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-571042f1d601d957c95d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-26c75aaafcf9856d5077.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2308b9aeef314e1e755e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-39716205cde5c58aa05c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1-Debug-e8a46ba2ffb266c0bc7a.json",
+					"name" : "appPrac1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_autogen-Debug-27ace054c096efd212d2.json",
+					"name" : "appPrac1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_autogen_timestamp_deps-Debug-214887fc630ea2e2d84d.json",
+					"name" : "appPrac1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_qmlimportscan-Debug-de00b34067ae70e5b754.json",
+					"name" : "appPrac1_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_qmllint-Debug-1fb716e091791295a48f.json",
+					"name" : "appPrac1_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_qmllint_json-Debug-5279c51b3a1bfce7fcc6.json",
+					"name" : "appPrac1_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_qmllint_module-Debug-992e9c13456bd0489ff7.json",
+					"name" : "appPrac1_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_qmltyperegistration-Debug-ab417dd3ad6d1c999868.json",
+					"name" : "appPrac1_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPrac1_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPrac1_tooling-Debug-6bdb5443f22ae880e99a.json",
+					"name" : "appPrac1_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jospompam/Desktop/Desarrollo-de-Interfaces/semana-6-desarrollo-multiplataforma-qt-i-JoseMiguelPomares/Prac1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/jospompam/Desktop/Desarrollo-de-Interfaces/semana-6-desarrollo-multiplataforma-qt-i-JoseMiguelPomares/Prac1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

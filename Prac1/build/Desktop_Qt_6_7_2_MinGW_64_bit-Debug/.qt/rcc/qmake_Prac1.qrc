@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Prac1">
+    <file alias="qmldir">C:/Users/jospompam/Desktop/Desarrollo-de-Interfaces/semana-6-desarrollo-multiplataforma-qt-i-JoseMiguelPomares/Prac1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Prac1/qmldir</file>
+  </qresource>
+</RCC>
+
