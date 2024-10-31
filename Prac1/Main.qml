@@ -122,10 +122,14 @@ Window {
 
     Grid {
         id: grid
-        x: 184
-        y: 107
-        width: 400
-        height: 400
+        anchors.left: columnLayout.right
+        anchors.right: parent.right
+        anchors.top: rowLayout.bottom
+        anchors.bottom: parent.bottom
+        anchors.leftMargin: 0
+        anchors.rightMargin: 0
+        anchors.topMargin: 0
+        anchors.bottomMargin: 0
 
         Rectangle {
             id: rectangle4
