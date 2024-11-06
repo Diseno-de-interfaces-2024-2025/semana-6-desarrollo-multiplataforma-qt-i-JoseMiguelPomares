@@ -11,10 +11,13 @@ Window {
 
     ColumnLayout {
         id: columnLayout
-        width: 202
-        anchors.right: parent.right
-        anchors.fill: parent
-        anchors.rightMargin: 500
+        y: 65
+        width: 140
+        height: 399
+        anchors.verticalCenter: rowLayout.verticalCenter
+        anchors.left: parent.left
+        anchors.top: parent.top
+        anchors.bottom: parent.bottom
 
         Rectangle {
             id: rectangle
@@ -150,14 +153,16 @@ Window {
 
     GridLayout {
         id: gridLayout
+        anchors.verticalCenter: columnLayout.verticalCenter
         anchors.left: columnLayout.right
-        anchors.right: parent.right
-        anchors.top: rowLayout.bottom
-        anchors.bottom: parent.bottom
-        anchors.leftMargin: 0
-        anchors.rightMargin: 0
-        anchors.topMargin: 0
-        anchors.bottomMargin: 0
+        anchors.right: columnLayout.left
+        anchors.top: columnLayout.bottom
+        anchors.bottom: columnLayout.top
+        anchors.leftMargin: 10
+        anchors.rightMargin: -640
+        anchors.topMargin: -380
+        anchors.bottomMargin: -480
+        anchors.horizontalCenter: columnLayout.horizontalCenter
         rows: 3
         columns: 3
 

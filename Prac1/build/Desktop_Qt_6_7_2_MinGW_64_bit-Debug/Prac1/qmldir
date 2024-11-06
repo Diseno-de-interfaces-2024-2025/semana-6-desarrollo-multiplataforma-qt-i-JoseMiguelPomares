@@ -2,4 +2,5 @@ module Prac1
 typeinfo appPrac1.qmltypes
 prefer :/qt/qml/Prac1/
 Main 1.0 Main.qml
+Elemento 1.0 Elemento.qml
 
